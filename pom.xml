@@ -29,6 +29,12 @@
             <version>1.0.0-M2.1</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>org.deeplearning4j</groupId>
+            <artifactId>deeplearning4j-ui</artifactId>
+            <version>1.0.0-M2.1</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
 </project>
